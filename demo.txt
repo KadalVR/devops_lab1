@@ -1,6 +1,4 @@
 Line added by feature1
- HEAD
 Feature1 line
-
 Feature2 line
- feature2-new
+ 
